@@ -8,7 +8,7 @@ This repository contains a Java Project to simulate some of math methods found i
 * ...
 
 ### Connect me via:
-1. [Facebook] (https://www.facebook.com/TBS.Freelancer/)
+1. [Facebook](https://www.facebook.com/TBS.Freelancer)
 2. [Email](mailto:tranbason241@gmail.com)
 
 ### © 2020 by sontb | FPT University, HCMC
